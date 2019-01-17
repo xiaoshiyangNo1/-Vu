@@ -1,0 +1,12 @@
+打包命令
+npm run build
+
+将带有svg的都删除
+
+多一个dist文件
+在dist文件中打开资源管理器
+ 
+将dist上线项目在 phpstudy打开 www项目
+
+也可以在命令行打开   live-server
+
